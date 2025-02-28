@@ -1,5 +1,5 @@
 # Cisco-Packet-Tracer-Network
-Simple Cisco Packet Tracer Network
+Simple Cisco Packet Tracer Network.
 This project involves designing and simulating a secure communication network for a mid-sized company, addressing the challenges of network expansion while ensuring high availability, security, and performance. Key elements of the project include:
 
     Network Design & Subnetting:
